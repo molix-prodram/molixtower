@@ -1,5 +1,5 @@
 
-# 🎮 [Название игры]
+# 🎮 Molixtower(нет)
 
 ![Обложка игры](docs/images/cover.png)
 
